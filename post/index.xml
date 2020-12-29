@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on ThanhTung&#39;s Blog </title>
+    <link>https://example.org/post/</link>
+    <description>Recent content in Posts on ThanhTung&#39;s Blog </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 29 Dec 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://example.org/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cách sops file</title>
+      <link>https://example.org/2020/12/sops-env/</link>
+      <pubDate>Tue, 29 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/2020/12/sops-env/</guid>
+      <description>&lt;p&gt;Có nhiều khi bạn muốn đưa một vài thông tin bí mật (API key,&amp;hellip;) lên github mà không muốn người khác biết được
+nội dung của những thông tin đó thì khi đó chúng ta có thể dùng sops để mã hoá các thông tin đó&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Hán tự tiếng nhật</title>
+      <link>https://example.org/2020/12/kanji/</link>
+      <pubDate>Tue, 29 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/2020/12/kanji/</guid>
+      <description>&lt;p&gt;Tổng hợp danh sách các hán tự N1 và ý nghĩa đi kèm&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Cách revert commit trong git</title>
+      <link>https://example.org/2020/12/revert-git-commit/</link>
+      <pubDate>Mon, 28 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/2020/12/revert-git-commit/</guid>
+      <description>&lt;p&gt;Sẽ có những lần khi release sản phẩm lên môi trường production nhưng bạn chợt nhận ra có lỗi phát sinh. Khi đó việc cần thiết đầu tiên sẽ phải là revert lại code cũ ngay để đảm bảo hệ thống hoạt động bình thường.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Guitar cover</title>
+      <link>https://example.org/2020/12/guitar-cover/</link>
+      <pubDate>Mon, 28 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/2020/12/guitar-cover/</guid>
+      <description>&lt;p&gt;Giải trí với guitar&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
