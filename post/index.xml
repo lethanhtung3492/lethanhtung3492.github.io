@@ -35,14 +35,5 @@ nội dung của những thông tin đó thì khi đó chúng ta có thể dùng
       <description>&lt;p&gt;Sẽ có những lần khi release sản phẩm lên môi trường production nhưng bạn chợt nhận ra có lỗi phát sinh. Khi đó việc cần thiết đầu tiên sẽ phải là revert lại code cũ ngay để đảm bảo hệ thống hoạt động bình thường.&lt;/p&gt;</description>
     </item>
     
-    <item>
-      <title>Guitar cover</title>
-      <link>https://lethanhtungvn.github.io/2020/12/guitar-cover/</link>
-      <pubDate>Mon, 28 Dec 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://lethanhtungvn.github.io/2020/12/guitar-cover/</guid>
-      <description>&lt;p&gt;Giải trí với guitar&lt;/p&gt;</description>
-    </item>
-    
   </channel>
 </rss>
